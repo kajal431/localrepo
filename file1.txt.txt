@@ -1,2 +1,6 @@
 this is version 1
+<<<<<<< HEAD
+new line add
+=======
 hii kp
+>>>>>>> main
